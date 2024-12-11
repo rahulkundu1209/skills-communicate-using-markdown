@@ -14,3 +14,7 @@ cout << "a=";
 cin >> a;
 cout << "Entered value of a is " << a << endl;
 ```
+### Task List
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
